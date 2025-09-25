@@ -44,7 +44,6 @@ body{background-color:white;}
 <li style="font-size:17px;"> <a href="#akuchi-dislikes">Akuchi</a></li>
 <li style="font-size:17px;"> <a href="#nneoma-dislikes">Nneoma</a></li>
 </ul>
-<li style="font-size:20px;"><a href="#where-we-live">Where we live</a></li>
 </ol>
 
 <h2 id="about-us">About Us</h2>
@@ -195,10 +194,7 @@ Nneoma AUdeichi, A.K.A (Nneoma). Born on 8th March, 2018. Nneoma is the fourth a
 <li>Reading books </li>
 <li>Doing work</li>
 </ul>
-
-<h2 id="where-we-live" style="color:orange; font-family:monospace; font-size:30px;">Where we live</h2>
-<p>
-     </body>
+    </body>
 </html>
 
 

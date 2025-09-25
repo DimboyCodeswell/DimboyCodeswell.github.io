@@ -3,15 +3,7 @@
     <head>
         <meta charset="utf-8">
         </head>
-        <body>
-        
-        <style>
-body{background-color:white;}        
-#introduction{color:blue; font-family:cursive; font-size:40px; border:10px blue solid;}
-#contents{color:red; font-family:cursive; font-size:30px; border:7px red solid; margin-right:420px; }
-#about-us{color:orange; font-size:30px; font-family:monospace; }
-        </style>
-        
+        <body>   
 <h1 id="introduction">Dr. Chimaroke and Family</h1>
 <h2 id="contents">Contents</h2>
 <ol>

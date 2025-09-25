@@ -38,7 +38,7 @@
 </ol>
 
 <h2 id="about-us">About Us</h2>
-<img src="https://scontent.fbni1-2.fna.fbcdn.net/v/t39.30808-6/482223186_1699106540999427_6162571494728224255_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=cc71e4&amp;_nc_eui2=AeEaKvKlHmjJFKTmbdoaXJyFnH3ZA6i56imcfdkDqLnqKd8lLWtDMZQXcR_EwNy1eD_1pE_2u4dSmvWyzjh8ghmj&amp;_nc_ohc=nVkWjOdjefIQ7kNvwFftuyz&amp;_nc_oc=AdnrWOoabn_TXwCkeEoXAwWSOfhIdXMS9qdiIRkUHFp5lCBPd8F0-01TeQeLxXRiS5w&amp;_nc_zt=23&amp;_nc_ht=scontent.fbni1-2.fna&amp;_nc_gid=idq6hcL30y9XeePJyw7EkQ&amp;oh=00_Afb4QbA_7pq17chuSzPRq-g4zTPxJ13VgGaKaIF6jFwI8w&amp;oe=68D44A4E" alt="Dr. Chimaroke's Family" width="370px">
+<img src="https://scontent.fbni1-2.fna.fbcdn.net/v/t39.30808-6/482223186_1699106540999427_6162571494728224255_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=cc71e4&amp;_nc_eui2=AeEaKvKlHmjJFKTmbdoaXJyFnH3ZA6i56imcfdkDqLnqKd8lLWtDMZQXcR_EwNy1eD_1pE_2u4dSmvWyzjh8ghmj&amp;_nc_ohc=nVkWjOdjefIQ7kNvwFftuyz&amp;_nc_oc=AdnrWOoabn_TXwCkeEoXAwWSOfhIdXMS9qdiIRkUHFp5lCBPd8F0-01TeQeLxXRiS5w&amp;_nc_zt=23&amp;_nc_ht=scontent.fbni1-2.fna&amp;_nc_gid=idq6hcL30y9XeePJyw7EkQ&amp;oh=00_Afb4QbA_7pq17chuSzPRq-g4zTPxJ13VgGaKaIF6jFwI8w&amp;oe=68D44A4E" width="370px">
 
 <p id="about-dad" style="font-family:monospace; font-size:25px;">Dad</p>
 <img src="https://news-gh.churchofjesuschrist.org/media/960x1280/AWA-Seventies-1.png" alt="Dr. Chimaroke" width="200px">
